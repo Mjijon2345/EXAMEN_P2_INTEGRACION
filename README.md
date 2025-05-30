@@ -83,8 +83,6 @@ FastAPI
 
 Uvicorn
 
-jose
-
 httpx
 
 DEPENDENCIAS
